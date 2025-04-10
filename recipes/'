@@ -1,0 +1,137 @@
+<!doctype html>
+<html>
+    <head lang="en">
+        <meta charset="UTF-8">
+    </head>
+
+    <body>
+        <a href="../index.html">Home</a>
+
+        <h1>Lasagna</h1>
+
+        <img src="../images/lasagna.jpg" alt="Image of Lasagna" height="600" width="600">
+
+        <li>
+        <p>A recipe for making scrumdiliyumtious lasagna just like the one you see above here on the page. 😊</p>
+
+        <h2>Ingredients</h2>
+
+        <h4>For the meat sauce</h4>
+
+        <ul>
+            <li>Ground Beef or Sausage: 1 pound (or a combination of both)</li>
+            <li>Onion: 1 medium, diced</li>
+            <li>Garlic: 2-3 cloves, minced</li>
+            <li>Crushed Tomatoes: 1 (28 ounce) can</li>
+            <li>Tomato Sauce: 1 (28 ounce) jar or 2 (6.5 ounce) cans</li>
+            <li>Tomato Paste: 2 (6 ounce) cans</li>
+            <li>Water: 1/2 cup</li>
+            <li>Sugar: 2 tablespoons</li>
+            <li>Parsley: 2 tablespoons chopped fresh or 2 teaspoons dried</li>
+            <li>Basil: 1 1/2 teaspoons dried</li>
+            <li>Italian Seasoning: 1 teaspoon</li>
+            <li>Fennel Seeds: 1/2 teaspoon</li>
+            <li>Salt: 1 1/2 teaspoons or to taste</li>
+            <li>Black Pepper: 1/4 teaspoon</li>
+            <li>Olive Oil: for cooking </li>
+        </ul>
+
+        <h4>For the ricotta layer</h4>
+        <ul>
+            <li>Ricotta Cheese: 16 ounces</li>
+            <li>Egg: 1 large</li>
+            <li>Parmesan Cheese: 3/4 cup, grated</li>
+            <li>Salt and Pepper: to taste</li>
+        </ul>
+
+        <h2>Steps to making lasagna</h2>
+        <ol>
+            <li>
+                </li>
+                <li>
+            <p>Prepare the Meat Sauce:</p>
+
+                    Brown the ground meat (like beef, pork, or a mix) in a large pot or Dutch oven over medium-high heat. Drain off excess fat.
+
+                    Add chopped onions and minced garlic to the pot with the meat. Cook until softened (about 5-7 minutes).
+
+                    Stir in crushed tomatoes, tomato paste, water or broth, and seasonings (like salt, pepper, dried oregano, dried basil, maybe a pinch of sugar to balance acidity).
+
+                    Bring the sauce to a simmer, then reduce heat to low, cover, and let it cook for at least 30 minutes (longer is better, up to 1-2 hours) for flavors to meld. Stir occasionally.
+
+            </li>
+            <li>
+                <li>
+            <p>Cook the Lasagna Noodles (if not using no-boil):</p>
+
+                    While the sauce simmers, bring a large pot of salted water to a rolling boil.
+
+                    Add lasagna noodles and cook according to package directions until al dente (slightly firm to the bite). Be careful not to overcook them.
+
+                    Carefully drain the noodles and rinse with cold water to stop the cooking process and prevent sticking.
+
+                    Lay the noodles flat on lightly oiled baking sheets or parchment paper to prevent them from tearing or sticking together.
+
+                    (Alternative: If using no-boil noodles, you can skip this step entirely).
+
+            <li>
+                </li>
+                <li>
+            <p>Prepare the Ricotta Cheese Mixture:</p>
+
+                    In a medium bowl, combine ricotta cheese, grated Parmesan cheese, one or two beaten eggs, chopped fresh parsley (or dried), salt, and pepper. Mix well until smooth.
+
+            </li>
+            <li>
+                <li>
+            <p>Preheat Oven & Prepare Baking Dish:</p>
+
+                    Preheat your oven to 375°F (190°C).
+
+                    Lightly grease a 9x13 inch baking dish.
+
+            <li>
+                </li>
+                <li>
+            <p>Assemble the Lasagna Layers:</p>
+
+                    Bottom Layer: Spread a thin layer (about 1 cup) of the meat sauce evenly over the bottom of the prepared baking dish. (This prevents noodles from sticking).
+
+                    First Layer: Arrange a single layer of cooked lasagna noodles over the sauce (usually 3-4 noodles, slightly overlapping).
+
+                    Second Layer: Spread about half of the ricotta cheese mixture evenly over the noodles.
+
+                    Third Layer: Sprinkle about one-third of the shredded mozzarella cheese over the ricotta mixture.
+
+                    Fourth Layer: Spoon about one-third of the remaining meat sauce evenly over the mozzarella.
+
+                    Repeat: Add another layer of noodles, the remaining ricotta mixture, another third of the mozzarella, and another third of the meat sauce.
+
+                    Final Layer: Place the last layer of noodles on top. Spread the rest of the meat sauce over the noodles. Sprinkle generously with the remaining mozzarella cheese and some extra grated Parmesan cheese.
+
+            </li>
+            <li>
+            <p>Bake the Lasagna:</p>
+
+                    Cover the baking dish tightly with aluminum foil (you can lightly grease the underside of the foil to prevent cheese from sticking).
+
+                    Bake in the preheated oven for 25-30 minutes.
+
+                    Carefully remove the foil.
+
+                    Continue baking uncovered for another 20-25 minutes, or until the top is golden brown, the sauce is bubbly, and the cheese is fully melted.
+
+            <li>
+            <p>Rest the Lasagna:</p>
+
+                    Crucial Step: Remove the lasagna from the oven and let it rest on a wire rack for at least 10-15 minutes before slicing and serving. This allows the layers to set, making it much easier to cut clean portions.
+
+            </li>
+            <li>
+            <p>Serve:
+
+                    Cut into squares and serve hot. Enjoy your homemade lasagna!
+            </li>
+            </ol>
+    </body>
+</html>
