@@ -1,0 +1,12 @@
+#title {
+    color: red;
+}
+a {
+    display: block;
+    color: black;
+    width: fit-content;
+}
+
+a:hover {
+    color: rgb(0, 0, 0, 0.8);
+}
